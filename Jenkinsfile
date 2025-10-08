@@ -12,14 +12,16 @@ pipeline {
         checkout scm
       }
     }
-    stage('Python & deps') {
+    stage('Python & deps (user)') {
       steps {
         sh '''
           python3 --version
-          python3 -m venv venv
-          . venv/bin/activate
-          pip install --upgrade pip
-          pip install --no-cache-dir requests psycopg2-binary python-dotenv
+          python3 -m pip install --user --upgrade pip
+          python3 -m pip install --user --no-cache-dir requests psycopg2-binary python-dotenv
+          # Asegura que scripts instalados en ~/.local/bin están en el PATH de esta shell
+          export PATH="$HOME/.local/bin:$PATH"
+          # prueba import rápido
+          python3 -c "import requests, psycopg2, dotenv; print('deps OK')"
         '''
       }
     }
@@ -30,8 +32,8 @@ pipeline {
           usernamePassword(credentialsId: 'PG_CREDS',      usernameVariable: 'DB_USER',          passwordVariable: 'DB_PASSWORD')
         ]) {
           sh '''
-            . venv/bin/activate
-            python audit_navpanel_first_prod.py -c ${CONFIG} | tee run.log
+            export PATH="$HOME/.local/bin:$PATH"
+            python3 audit_navpanel_first_prod.py -c ${CONFIG} | tee run.log
           '''
         }
       }
