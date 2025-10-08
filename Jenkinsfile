@@ -2,7 +2,8 @@ pipeline {
   agent {
     docker {
       image 'python:3.11-slim'
-      args '-u' // stdout sin buffer
+      // args '-u'  // <- QUITAR: causaba doble -u
+      reuseNode true
     }
   }
   options { timestamps() }
@@ -35,6 +36,8 @@ pipeline {
     }
   }
   post {
-    always { archiveArtifacts artifacts: 'run.log', allowEmptyArchive: true }
+    always {
+      archiveArtifacts artifacts: 'run.log', allowEmptyArchive: true
+    }
   }
 }
