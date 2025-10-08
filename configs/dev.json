@@ -1,0 +1,51 @@
+{
+  "env_name": "dev",
+  "grafana": {
+    "url": "https://dev.enerview.site/api",
+    "verify_ssl": true,
+    "companies_file": "companies.json",
+    "dashboards": [
+      "Benchmark",
+      "Daily ESP Status",
+      "Executive",
+      "Health Check",
+      "Production History",
+      "Production Optimization",
+      "Real Time Multi-axis",
+      "Real Time: Quick View",
+      "Real Time: Trends",
+      "Reports",
+      "Setpoints",
+      "Shutdowns and Faults"
+    ],
+    "names_filter": [
+      "Executive",
+      "Benchmark",
+      "Production Optimization",
+      "Status",
+      "Shutdowns",
+      "Production",
+      "Single-Axis",
+      "Multi-axis",
+      "Quick View",
+      "Health Check",
+      "Setpoints",
+      "Reports"
+    ]
+  },
+  "rules": {
+    "require_include_variables": true,
+    "forbid_url_params": true,
+    "panel_type": "volkovlabs-links-panel",
+    "pick": "first"
+  },
+  "db": {
+    "host": "rds-test.cj8e8cqeonv7.us-east-2.rds.amazonaws.com",
+    "port": 5432,
+    "name": "postgres",
+    "schema": "public"
+  },
+  "progress": {
+    "bar_width": 46
+  }
+}
