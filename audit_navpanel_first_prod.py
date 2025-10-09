@@ -321,6 +321,10 @@ def main():
                     dash = payload.get("dashboard") or {}
                     meta = payload.get("meta") or {}
 
+                    folder_title = (meta.get("folderTitle") or "").strip()
+                    if folder_title.lower() == "test":
+                        continue
+
                     panel = pick_panel(dash, r["panel_type"], r["pick"])
                     if not panel:
                         continue
@@ -330,7 +334,7 @@ def main():
                         # ⬇⬇⬇ ignorar dropdowns
                         if (source or "").lower() == "dropdown":
                             continue
-                        
+
                         name = it.get("name") or it.get("dropdownName") or ""
                         if not should_check_name(name, g["names_filter"]):
                             continue
