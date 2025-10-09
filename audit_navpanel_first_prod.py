@@ -342,9 +342,9 @@ def main():
 
                         issues = []
                         if r["require_include_variables"] and not include_vars_is_true(it):
-                            issues.append("includeVariables_false_or_missing")
+                            issues.append("Links dont include Current Variables")
                         if r["forbid_url_params"] and url_has_params(url):
-                            issues.append("url_has_params")
+                            issues.append("Url includes params")
 
                         items_checked += 1
                         if issues:
