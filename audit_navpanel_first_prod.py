@@ -327,6 +327,10 @@ def main():
 
                     items = extract_items_from_volkov_panel(panel)
                     for source, it in items:
+                        # ⬇⬇⬇ ignorar dropdowns
+                        if (source or "").lower() == "dropdown":
+                            continue
+                        
                         name = it.get("name") or it.get("dropdownName") or ""
                         if not should_check_name(name, g["names_filter"]):
                             continue
