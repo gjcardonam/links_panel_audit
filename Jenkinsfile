@@ -30,7 +30,7 @@ pipeline {
           usernamePassword(credentialsId: 'GRAFANA_CREDS', usernameVariable: 'GRAFANA_USERNAME', passwordVariable: 'GRAFANA_PASSWORD'),
           usernamePassword(credentialsId: 'PG_CREDS',      usernameVariable: 'DB_USER',          passwordVariable: 'DB_PASSWORD')
         ]) {
-          sh 'python audit_navpanel_first_prod.py -c ${CONFIG} | tee run.log'
+          sh 'python audit_nav_links.py -c ${CONFIG} | tee run.log'
         }
       }
     }
