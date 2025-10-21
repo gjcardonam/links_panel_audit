@@ -37,7 +37,7 @@ def norm(s: Optional[str]) -> str:
 DEFAULT_LINK_TARGETS = {
     "Executive":    "Executive",
     "Benchmark":    "Benchmark",
-    "Status":       "24 Hour Status Summary",  # <-- ajusta si tu estándar es otro
+    "Status":       "24 Hour Status Summary",
     "Shutdowns":    "Shutdowns and Faults",
     "Production":   "Production History",
     "Single-Axis":  "Real Time: Trends",

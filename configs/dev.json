@@ -1,7 +1,7 @@
 {
-  "env_name": "dev",
+  "env_name": "qa",
   "grafana": {
-    "url": "https://dev.enerview.site/api",
+    "url": "https://qa.enerview.site/api",
     "verify_ssl": true,
     "companies_file": "companies.json",
     "dashboards": [
@@ -44,7 +44,7 @@
     "link_targets": {
       "Executive": "Executive",
       "Benchmark": "Benchmark",
-      "Status": "24 Hour Status Summary",
+      "Status": "Daily ESP Status",
       "Shutdowns": "Shutdowns and Faults",
       "Production": "Production History",
       "Single-Axis": "Real Time: Trends",
