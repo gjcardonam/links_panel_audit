@@ -1,0 +1,102 @@
+{
+  "rules": {
+    "mode": "LINKS",
+    "panel_type": "volkovlabs-links-panel",
+    "ignore_folders": ["Test"],
+    "ignore_dropdowns": true,
+    "require_include_vars": true,
+    "forbid_url_params_any": true,
+    "link_targets": {
+      "Executive": "Executive",
+      "Benchmark": "Benchmark",
+      "Status": "Daily ESP Status",
+      "Shutdowns": "Shutdowns and Faults",
+      "Production": "Production History",
+      "Single-Axis": "Real Time: Trends",
+      "Multi-axis": "Real Time: Multi-axis",
+      "Quick View": "Real Time: Quick View",
+      "Health Check": "Health Check",
+      "Setpoints": "Setpoints",
+      "Reports": "Reports"
+    }
+  },
+  "db": {
+    "enabled": true,
+    "schema": "public"
+  },
+  "progress": { "bar_width": 46 },
+  "environments": [
+    {
+      "name": "qa",
+      "grafana": {
+        "url": "https://qa.enerview.site/api",
+        "verify_ssl": true,
+        "companies_file": "companies.qa.json",
+        "dashboards": [
+          "Benchmark",
+          "Daily ESP Status",
+          "Executive",
+          "Health Check",
+          "Production History",
+          "Production Optimization",
+          "Real Time Multi-axis",
+          "Real Time: Quick View",
+          "Real Time: Trends",
+          "Reports",
+          "Setpoints",
+          "Shutdowns and Faults"
+        ],
+        "names_filter": [
+          "Executive",
+          "Benchmark",
+          "Production Optimization",
+          "Status",
+          "Shutdowns",
+          "Production",
+          "Single-Axis",
+          "Multi-axis",
+          "Quick View",
+          "Health Check",
+          "Setpoints",
+          "Reports"
+        ]
+      }
+    },
+    {
+      "name": "dev",
+      "grafana": {
+        "url": "https://dev.enerview.site/api",
+        "verify_ssl": true,
+        "companies_file": "companies.dev.json",
+        "dashboards": [
+          "Benchmark",
+          "Daily ESP Status",
+          "Executive",
+          "Health Check",
+          "Production History",
+          "Production Optimization",
+          "Real Time Multi-axis",
+          "Real Time: Quick View",
+          "Real Time: Trends",
+          "Reports",
+          "Setpoints",
+          "Shutdowns and Faults"
+        ],
+        "names_filter": [
+          "Executive",
+          "Benchmark",
+          "Production Optimization",
+          "Status",
+          "Shutdowns",
+          "Production",
+          "Single-Axis",
+          "Multi-axis",
+          "Quick View",
+          "Health Check",
+          "Setpoints",
+          "Reports"
+        ]
+      }
+    }
+  ]
+}

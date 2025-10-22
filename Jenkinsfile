@@ -8,7 +8,7 @@ pipeline {
   }
   options { timestamps() }
   parameters {
-    choice(name: 'CONFIG', choices: ['configs/dev.json','configs/prod.json'], description: 'Config JSON')
+    choice(name: 'CONFIG', choices: ['configs/dev.json','configs/multi.json'], description: 'Config JSON')
   }
   environment { PYTHONUNBUFFERED = '1' }
 
