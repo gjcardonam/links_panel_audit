@@ -6,7 +6,7 @@
       "type": "debugpy",
       "request": "launch",
       "program": "${workspaceFolder}/audit_nav_links.py",
-      "args": ["-c", "configs/dev.json"],
+      "args": ["-c", "configs/multi.json"],
       "console": "integratedTerminal"
     }
   ]

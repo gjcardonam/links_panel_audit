@@ -63,7 +63,7 @@ def _resolve_grafana_fields(env_block: dict) -> Dict[str, Any]:
     como GRAFANA_URL, GRAFANA_USERNAME, etc. se respetan; si no, toma del bloque.
     """
     g = env_block.get("grafana", {}) if env_block else {}
-    grafana_url  = os.getenv("GRAFANA_URL", g.get("url", "")).rstrip("/")
+    grafana_url = (g.get("url") or os.getenv("GRAFANA_URL", "")).rstrip("/")
     grafana_user = os.getenv("GRAFANA_USERNAME", g.get("username", ""))
     grafana_pass = os.getenv("GRAFANA_PASSWORD", g.get("password", ""))
     verify_ssl   = _bool_env_default(os.getenv("VERIFY_SSL", g.get("verify_ssl", True)), True)
@@ -172,12 +172,17 @@ def switch_organization(session: requests.Session, base_url: str, org_id: int) -
     if r.status_code != 200:
         raise RuntimeError(f"Switch org {org_id} failed: {r.status_code} {r.text}")
 
-def search_dashboard_by_title(session: requests.Session, base_url: str, title: str) -> List[Dict[str, Any]]:
-    r = session.get(f"{base_url}/search", params={"type": "dash-db", "query": title})
+def search_dashboard_by_title(session: requests.Session, base_url: str, title: str, folder_title: Optional[str] = None) -> List[Dict[str, Any]]:
+    r = session.get(f"{base_url}/search", params={"type": "dash-db", "query": title, "limit": 5000})
     r.raise_for_status()
     res = r.json() or []
-    exact = [it for it in res if it.get("title") == title]
-    return exact if exact else [it for it in res if str(it.get("title","")).lower() == title.lower()]
+    cands = [it for it in res if str(it.get("title","")).strip().lower() == title.strip().lower()]
+    if not cands:
+        cands = res
+    if folder_title:
+        ft = folder_title.strip().casefold()
+        cands = [it for it in cands if str(it.get("folderTitle","")).strip().casefold() == ft]
+    return cands
 
 def get_dashboard(session: requests.Session, base_url: str, uid: str) -> Dict[str, Any]:
     r = session.get(f"{base_url}/dashboards/uid/{uid}")
@@ -408,9 +413,14 @@ def run_for_environment(env_cfg: Dict[str, Any], rules: Dict[str, Any], db_cfg: 
             session, base_url, company["name"], expected_titles
         )
 
+        if not company_folder_title:
+            tasks_done += max(1, len(titles_to_visit))
+            progress_bar(tasks_done, total_tasks, f"Progreso {env_name}", bar_width)
+            continue
+
         for title in titles_to_visit:
             try:
-                for m in search_dashboard_by_title(session, base_url, title):
+                for m in search_dashboard_by_title(session, base_url, title, folder_title=company_folder_title):
                     uid = m.get("uid")
                     if not uid:
                         continue

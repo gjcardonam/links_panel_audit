@@ -2,7 +2,7 @@
   "rules": {
     "mode": "LINKS",
     "panel_type": "volkovlabs-links-panel",
-    "ignore_folders": ["Test"],
+    "ignore_folders": ["Test", "TEMPLATES GL", "TEMPLATE GL DE", "Gas lift"],
     "ignore_dropdowns": true,
     "require_include_vars": true,
     "forbid_url_params_any": true,
