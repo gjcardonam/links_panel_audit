@@ -28,6 +28,16 @@ from requests.auth import HTTPBasicAuth
 
 # ---------------- util ----------------
 
+# ---------------- util ----------------
+def progress_bar(done: int, total: int, prefix: str = "", width: int = 46) -> None:
+    if total <= 0:
+        total = 1
+    ratio = max(0.0, min(1.0, done / total))
+    filled = int(width * ratio)
+    bar = "█" * filled + "░" * (width - filled)
+    sys.stdout.write(f"\r{prefix} [{bar}] {done}/{total} ({ratio*100:5.1f}%)")
+    sys.stdout.flush()
+
 def load_json(path: str) -> dict:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -78,7 +88,12 @@ def build_config(args) -> Dict[str, Any]:
     envs_resolved = []
     for env in environments:
         envs_resolved.append({"name": env.get("name") or "dev", "grafana": _resolve_grafana_fields(env)})
-    return {"environments": envs_resolved}
+
+    # NEW: support for progress.bar_width (defaults to 46)
+    bar_width = int((cfg.get("progress") or {}).get("bar_width", 46))
+
+    return {"environments": envs_resolved, "bar_width": bar_width}
+
 
 # ---------------- grafana http ----------------
 
@@ -176,7 +191,8 @@ def run_for_environment(
     template_panel: Dict[str, Any],
     preserve_keys: Set[str],
     message: str,
-    dry_run: bool
+    dry_run: bool,
+    bar_width: int
 ) -> Dict[str, Any]:
 
     g = env_cfg["grafana"]
@@ -193,6 +209,8 @@ def run_for_environment(
         raise ValueError("Template panel JSON must include 'type' and 'title'.")
 
     companies = g["companies_inline"] if g["companies_inline"] else load_json(g["companies_file"])
+    total_tasks = len(companies)
+    tasks_done = 0
 
     session, base_url = make_session(g["url"], g["username"], g["password"], g["verify_ssl"])
 
@@ -200,6 +218,7 @@ def run_for_environment(
     results: List[Dict[str, Any]] = []
 
     print(f"\n[{env_name}] Dashboard='{dashboard_title}' | Panel to match: title='{tpl_title}', type='{tpl_type}' | Orgs={len(companies)}")
+    progress_bar(0, total_tasks, prefix=f"[{env_name}] Progreso", width=bar_width)
 
     for company in companies:
         org_name = company.get("name")
@@ -258,7 +277,11 @@ def run_for_environment(
         except Exception as e:
             results.append({"org": org_name, "status":"error", "error": str(e)})
             stats["errors"] += 1
+        finally:
+            tasks_done += 1
+            progress_bar(tasks_done, total_tasks, prefix=f"[{env_name}] Progreso", width=bar_width)
 
+    print()
     return {"summary": {"environment": env_name, **stats}, "results": results}
 
 # ---------------- CLI ----------------
@@ -280,7 +303,14 @@ def main():
     stamp = time.strftime("%Y%m%d_%H%M%S")
 
     for env in cfg["environments"]:
-        res = run_for_environment(env, template_panel, preserve_keys, args.message, args.dry_run)
+        res = run_for_environment(
+            env_cfg=env,
+            template_panel=template_panel,
+            preserve_keys=preserve_keys,
+            message=args.message,
+            dry_run=args.dry_run,
+            bar_width=cfg["bar_width"]
+        )
         all_out["summaries"].append(res["summary"])
         all_out["environments"][env["name"]] = res
 
