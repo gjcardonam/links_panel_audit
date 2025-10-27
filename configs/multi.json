@@ -59,7 +59,8 @@
           "Health Check",
           "Setpoints",
           "Reports"
-        ]
+        ],
+        "dashboard_to_edit": "Real Time: Quick View"
       }
     },
     {
@@ -95,7 +96,8 @@
           "Health Check",
           "Setpoints",
           "Reports"
-        ]
+        ],
+        "dashboard_to_edit": "Real Time: Quick View"
       }
     }
   ]
