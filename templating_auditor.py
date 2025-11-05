@@ -230,80 +230,127 @@ def is_hidden(var: Dict[str, Any]) -> bool:
     # Grafana: hide 0=visible, 1=label only, 2=hidden
     return (var.get("hide", 0) or 0) != 0
 
+def as_int(x, default=0):
+    try:
+        return int(x)
+    except Exception:
+        return default
 
-def validate_variables(vars_list: List[Dict[str, Any]]) -> List[str]:
-    issues: List[str] = []
+
+def validate_variables(vars_list: List[Dict[str, Any]]) -> List[Dict[str, Optional[str]]]:
+    issues: List[Dict[str, Optional[str]]] = []
+
+    def add(issue: str, var_name: Optional[str] = None):
+        issues.append({"issue": issue, "var_name": var_name})
+
     if vars_list is None:
-        issues.append("templating_missing")
+        add("templating_missing", None)
         return issues
 
-    # Regla 1: primeras dos variables
+    # --- localizar schema y groupId por nombre (case-insensitive)
+    idx_schema = idx_group = None
+    for i, v in enumerate(vars_list):
+        n_norm = norm(v.get("name"))
+        if n_norm == "schema" and idx_schema is None:
+            idx_schema = i
+        if n_norm == "groupid" and idx_group is None:
+            idx_group = i
+
+    # reglas "primeras dos": se mantienen, pero sin provocar falsos filtros
     if len(vars_list) < 2:
-        issues.append("vars_too_few_for_schema_groupId")
+        add("vars_too_few_for_schema_groupId", None)
         return issues
-
+    # Si quieres seguir exigiendo el orden exacto de las dos primeras:
     v0 = (vars_list[0].get("name") or "").strip()
     v1 = (vars_list[1].get("name") or "").strip()
-    if v0 != "schema":
-        issues.append("first_var_must_be_schema")
-    if v1 != "groupId":
-        issues.append("second_var_must_be_groupId")
+    if v0 != "schema":   add("first_var_must_be_schema", "schema")
+    if v1 != "groupId":  add("second_var_must_be_groupId", "groupId")
 
-    # Ambas ocultas (sólo filtros visibles)
-    if not is_hidden(vars_list[0]):
-        issues.append("schema_must_be_hidden")
-    if not is_hidden(vars_list[1]):
-        issues.append("groupId_must_be_hidden")
+    # schema / groupId deben existir y estar ocultos
+    if idx_schema is None:
+        add("schema_missing", "schema")
+    else:
+        if not is_hidden(vars_list[idx_schema]):
+            add("schema_must_be_hidden", "schema")
 
-    # Encontrar índice de corte (primer nodeId o all_nodeId)
+    if idx_group is None:
+        add("groupId_missing", "groupId")
+    else:
+        if not is_hidden(vars_list[idx_group]):
+            add("groupId_must_be_hidden", "groupId")
+
+    # --- primer *_nodeId que aparezca: some_nodeId / all_nodeId / nodeId
     cut_idx = len(vars_list)
     for i, v in enumerate(vars_list):
-        n = (v.get("name") or "").strip()
-        if n in ("nodeId", "all_nodeId"):
+        n_norm = norm(v.get("name"))
+        if n_norm in ("some_nodeid", "all_nodeid", "nodeid"):
             cut_idx = i
             break
 
-    # Filtros: desde idx=2 hasta cut_idx-1
-    for i in range(2, cut_idx):
-        v = vars_list[i]
-        n = (v.get("name") or "").strip()
-        # visibles
-        if is_hidden(v):
-            issues.append(f"filter_{n}_must_be_visible")
-        # multi/includeAll
-        if v.get("multi") is not True:
-            issues.append(f"filter_{n}_multi_true")
-        if v.get("includeAll") is not True:
-            issues.append(f"filter_{n}_includeAll_true")
-        # current All
-        cur = v.get("current", {}) or {}
-        txt = as_list(cur.get("text"))
-        val = as_list(cur.get("value"))
-        sel = bool(cur.get("selected", False))
-        if not (sel and ("All" in txt) and ("$__all" in val)):
-            issues.append(f"filter_{n}_current_must_be_All")
+    # --- validación en un único pase
+    for i, v in enumerate(vars_list):
+        n_raw  = (v.get("name") or "").strip()
+        n_norm = norm(n_raw)
 
-    # Resto (desde cut_idx hasta el final) ocultos + reglas de nodeId/all_nodeId
-    for i in range(cut_idx, len(vars_list)):
-        v = vars_list[i]
-        n = (v.get("name") or "").strip()
-        if not is_hidden(v):
-            issues.append(f"nonfilter_{n}_must_be_hidden")
-        if n == "all_nodeId":
-            if v.get("includeAll") is not True:
-                issues.append("all_nodeId_includeAll_true")
+        # saltar schema y groupId (ya validados) para evitar falsos filtros
+        if n_norm in ("schema", "groupid"):
+            continue
+
+        # variable especial: scale -> debe estar visible
+        if n_norm == "scale":
+            if is_hidden(v):
+                add("scale_must_be_visible", n_raw or "scale")
+            continue
+
+        # reglas específicas *_nodeId
+        if n_norm == "some_nodeid":
+            # some_nodeId: VISIBLE + multi/includeAll + current All
+            if is_hidden(v): add("some_nodeId_must_be_visible", n_raw or "some_nodeId")
+            if v.get("multi") is not True: add("some_nodeId_multi_true", n_raw or "some_nodeId")
+            if v.get("includeAll") is not True: add("some_nodeId_includeAll_true", n_raw or "some_nodeId")
             cur = v.get("current", {}) or {}
-            txt = as_list(cur.get("text"))
-            val = as_list(cur.get("value"))
-            sel = bool(cur.get("selected", False))
-            if not (sel and ("All" in txt) and ("$__all" in val)):
-                issues.append("all_nodeId_current_must_be_All")
-        if n == "nodeId":
-            # NO debe tener includeAll activo
-            if v.get("includeAll") is True:
-                issues.append("nodeId_includeAll_must_be_false")
+            txt = as_list(cur.get("text")); val = as_list(cur.get("value"))
+            if not (("All" in txt) and ("$__all" in val)):
+                add("some_nodeId_current_must_be_All", n_raw or "some_nodeId")
+            continue
+
+        if n_norm == "all_nodeid":
+            # all_nodeId: OCULTO + includeAll true + current All
+            if not is_hidden(v): add("nonfilter_all_nodeId_must_be_hidden", n_raw or "all_nodeId")
+            if v.get("includeAll") is not True: add("all_nodeId_includeAll_true", n_raw or "all_nodeId")
+            cur = v.get("current", {}) or {}
+            txt = as_list(cur.get("text")); val = as_list(cur.get("value"))
+            if not (("All" in txt) and ("$__all" in val)):
+                add("all_nodeId_current_must_be_All", n_raw or "all_nodeId")
+            continue
+
+        if n_norm == "nodeid":
+            # nodeId: OCULTO + NO includeAll
+            if not is_hidden(v): add("nonfilter_nodeId_must_be_hidden", n_raw or "nodeId")
+            if v.get("includeAll") is True: add("nodeId_includeAll_must_be_false", n_raw or "nodeId")
+            continue
+
+        # clasificación de FILTERS:
+        #  - deben estar DESPUÉS de groupId y ANTES del primer *_nodeId
+        is_filter = (idx_group is not None) and (i > idx_group) and (i < cut_idx)
+
+        if is_filter:
+            # Filtros: visibles + multi/includeAll + current All (sin exigir selected=true)
+            if is_hidden(v): add(f"filter_{n_raw}_must_be_visible", n_raw)
+            if v.get("multi") is not True: add(f"filter_{n_raw}_multi_true", n_raw)
+            if v.get("includeAll") is not True: add(f"filter_{n_raw}_includeAll_true", n_raw)
+            if as_int(v.get("sort"), 0) != 1: add(f"filter_{n_raw}_sort_must_be_1", n_raw)
+            cur = v.get("current", {}) or {}
+            txt = as_list(cur.get("text")); val = as_list(cur.get("value"))
+            if not (("All" in txt) and ("$__all" in val)):
+                add(f"filter_{n_raw}_current_must_be_All", n_raw)
+        else:
+            # No-filtro (resto): deben estar ocultos
+            if not is_hidden(v):
+                add(f"nonfilter_{n_raw}_must_be_hidden", n_raw)
 
     return issues
+
 
 # ---------- núcleo ----------
 
@@ -336,6 +383,7 @@ CREATE TABLE IF NOT EXISTS {db_cfg['schema']}.templating_audit_violations (
   run_id UUID REFERENCES {db_cfg['schema']}.templating_audit_runs(run_id) ON DELETE CASCADE,
   org TEXT, dashboard TEXT, dashboard_uid TEXT,
   folder_title TEXT, folder_id BIGINT, folder_url TEXT,
+  var_name TEXT,
   issue TEXT,
   created_at TIMESTAMPTZ NOT NULL DEFAULT now()
 );
@@ -393,7 +441,11 @@ CREATE TABLE IF NOT EXISTS {db_cfg['schema']}.templating_audit_violations (
             continue
 
         all_dashes = search_dashboards_any(session, base_url)
-        in_folder = [it for it in all_dashes if norm(it.get("folderTitle")) == norm(folder.get("title"))]
+        in_folder = [
+            it for it in all_dashes
+            if norm(it.get("folderTitle")) == norm(folder.get("title"))
+            and norm(it.get("title")) != "home"
+        ]
 
         dash_count += len(in_folder)
         if db_cfg["enabled"]:
@@ -415,6 +467,9 @@ CREATE TABLE IF NOT EXISTS {db_cfg['schema']}.templating_audit_violations (
 
             dash = payload.get("dashboard") or {}
             dmeta = payload.get("meta") or {}
+            # Saltar dashboards llamados 'Home'
+            if norm(dash.get("title")) == "home":
+                continue
             folder_title = (dmeta.get("folderTitle") or "").strip().lower()
             if folder_title in ignore_folders:
                 continue
@@ -429,7 +484,8 @@ CREATE TABLE IF NOT EXISTS {db_cfg['schema']}.templating_audit_violations (
                     "folder_title": dmeta.get("folderTitle"),
                     "folder_id": dmeta.get("folderId"),
                     "folder_url": dmeta.get("folderUrl"),
-                    "issue": iss,
+                    "var_name": iss.get("var_name"),
+                    "issue": iss.get("issue"),
                 })
 
         tasks_done += 1
@@ -454,9 +510,11 @@ CREATE TABLE IF NOT EXISTS {db_cfg['schema']}.templating_audit_violations (
         import csv
         with open(f"templating_audit_{env_name}.csv", "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
-            w.writerow(["org", "dashboard", "dashboard_uid", "folder_title", "folder_id", "folder_url", "issue"])
+            w.writerow(["org", "dashboard", "dashboard_uid", "folder_title", "folder_id", "folder_url", "var_name", "issue"])
             for v in violations:
-                w.writerow([v.get("org"), v.get("dashboard"), v.get("dashboard_uid"), v.get("folder_title"), v.get("folder_id"), v.get("folder_url"), v.get("issue")])
+                w.writerow([v.get("org"), v.get("dashboard"), v.get("dashboard_uid"),
+                            v.get("folder_title"), v.get("folder_id"), v.get("folder_url"),
+                            v.get("var_name"), v.get("issue")])
     except Exception as e:
         print(f"\n⚠ No se pudo escribir templating_audit_{env_name}.csv: {e}")
 
@@ -466,13 +524,14 @@ CREATE TABLE IF NOT EXISTS {db_cfg['schema']}.templating_audit_violations (
                 psycopg2.extras.execute_values(
                     cur,
                     f"""INSERT INTO {db_cfg['schema']}.templating_audit_violations
-                    (run_id, org, dashboard, dashboard_uid, folder_title, folder_id, folder_url, issue)
+                    (run_id, org, dashboard, dashboard_uid, folder_title, folder_id, folder_url, var_name, issue)
                     VALUES %s""",
                     [
                         (
                             run_id,
                             v.get("org"), v.get("dashboard"), v.get("dashboard_uid"),
                             v.get("folder_title"), v.get("folder_id"), v.get("folder_url"),
+                            v.get("var_name"),
                             v.get("issue"),
                         )
                         for v in violations

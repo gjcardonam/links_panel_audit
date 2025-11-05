@@ -1,0 +1,828 @@
+org,dashboard,dashboard_uid,folder_title,folder_id,folder_url,var_name,issue
+Akakus,Benchmark,bepz84rw3csu8e,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Benchmark,bepz84rw3csu8e,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Benchmark,bepz84rw3csu8e,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Benchmark,bepz84rw3csu8e,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Benchmark,bepz84rw3csu8e,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Benchmark,bepz84rw3csu8e,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Daily ESP Status,avobtrQ4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Daily ESP Status,avobtrQ4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Daily ESP Status,avobtrQ4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Daily ESP Status,avobtrQ4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Daily ESP Status,avobtrQ4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Daily ESP Status,avobtrQ4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Executive,bepz96kask9a8f,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Executive,bepz96kask9a8f,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Executive,bepz96kask9a8f,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Executive,bepz96kask9a8f,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Executive,bepz96kask9a8f,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Executive,bepz96kask9a8f,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Health Check,f357622b-628b-419c-a222-d92469c20aa1,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Health Check,f357622b-628b-419c-a222-d92469c20aa1,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Health Check,f357622b-628b-419c-a222-d92469c20aa1,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Health Check,f357622b-628b-419c-a222-d92469c20aa1,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Health Check,f357622b-628b-419c-a222-d92469c20aa1,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Health Check,f357622b-628b-419c-a222-d92469c20aa1,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Production History,W9lC_Bs4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Production History,W9lC_Bs4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Production History,W9lC_Bs4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Production History,W9lC_Bs4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Production History,W9lC_Bs4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Production History,W9lC_Bs4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Production Optimization,fepz9azaje8zkd,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Production Optimization,fepz9azaje8zkd,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Production Optimization,fepz9azaje8zkd,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Production Optimization,fepz9azaje8zkd,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Production Optimization,fepz9azaje8zkd,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Production Optimization,fepz9azaje8zkd,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Real Time: Multi-axis,4YkKH3w4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Real Time: Multi-axis,4YkKH3w4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Real Time: Multi-axis,4YkKH3w4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Real Time: Multi-axis,4YkKH3w4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Real Time: Multi-axis,4YkKH3w4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Real Time: Multi-axis,4YkKH3w4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Real Time: Quick View,LiH8xqw4k,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Real Time: Quick View,LiH8xqw4k,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Real Time: Quick View,LiH8xqw4k,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Real Time: Quick View,LiH8xqw4k,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Real Time: Quick View,LiH8xqw4k,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Real Time: Quick View,LiH8xqw4k,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Real Time: Trends,QdGHPbl4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Real Time: Trends,QdGHPbl4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Real Time: Trends,QdGHPbl4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Real Time: Trends,QdGHPbl4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Real Time: Trends,QdGHPbl4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Real Time: Trends,QdGHPbl4z,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Reports,jis1fNISz,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Reports,jis1fNISz,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Reports,jis1fNISz,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Reports,jis1fNISz,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Reports,jis1fNISz,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Reports,jis1fNISz,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Setpoints,de_bMhiSk,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Setpoints,de_bMhiSk,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Setpoints,de_bMhiSk,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Setpoints,de_bMhiSk,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Setpoints,de_bMhiSk,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Setpoints,de_bMhiSk,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Engineer,filter_Engineer_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Foreman,filter_Foreman_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Area,filter_Area_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,District,filter_District_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Lease,filter_Lease_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,Zone,filter_Zone_sort_must_be_1
+Akakus,Shutdowns and Faults,fepz9lpo8z2m8a,Akakus,160,/dashboards/f/b2940d20-ad27-4bae-a501-6277fff791b7/akakus,nodeId,nodeId_includeAll_must_be_false
+Blackbeard,Benchmark,cepz5x6zza0hsd,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Daily ESP Status,avobtrQ4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Foreman,filter_Foreman_sort_must_be_1
+Blackbeard,Executive,aepz602yp4zy8b,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Health Check,b9eb2e07-d926-4ce6-9742-38e616d724fd,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Foreman,filter_Foreman_sort_must_be_1
+Blackbeard,Health Check,b9eb2e07-d926-4ce6-9742-38e616d724fd,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Area,filter_Area_sort_must_be_1
+Blackbeard,Health Check,b9eb2e07-d926-4ce6-9742-38e616d724fd,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Production History,W9lC_Bs4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,schema,first_var_must_be_schema
+Blackbeard,Production History,W9lC_Bs4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,groupId,second_var_must_be_groupId
+Blackbeard,Production Optimization,eepz6jlzccv0ge,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Real Time: Multi-axis,4YkKH3w4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,schema,first_var_must_be_schema
+Blackbeard,Real Time: Multi-axis,4YkKH3w4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,groupId,second_var_must_be_groupId
+Blackbeard,Real Time: Multi-axis,4YkKH3w4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,frequency_vars,filter_frequency_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,frequency_vars,filter_frequency_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_current_vars,filter_motor_current_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_current_vars,filter_motor_current_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_current_vars,filter_motor_current_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_current_must_be_All
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_current_must_be_All
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_current_vars,filter_drive_current_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_current_vars,filter_drive_current_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_current_vars,filter_drive_current_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vsd_load_vars,filter_vsd_load_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vsd_load_vars,filter_vsd_load_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vsd_load_vars,filter_vsd_load_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_voltage_vars,filter_drive_voltage_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_voltage_vars,filter_drive_voltage_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_voltage_vars,filter_drive_voltage_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pip_vars,filter_pip_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pip_vars,filter_pip_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pip_vars,filter_pip_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pdp_vars,filter_pdp_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pdp_vars,filter_pdp_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pdp_vars,filter_pdp_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,fluid_temperature_vars,filter_fluid_temperature_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,fluid_temperature_vars,filter_fluid_temperature_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,fluid_temperature_vars,filter_fluid_temperature_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_temperature_vars,filter_motor_temperature_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_temperature_vars,filter_motor_temperature_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_temperature_vars,filter_motor_temperature_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_x_vars,filter_vibration_x_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_x_vars,filter_vibration_x_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_x_vars,filter_vibration_x_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_y_vars,filter_vibration_y_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_y_vars,filter_vibration_y_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_y_vars,filter_vibration_y_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_z_vars,filter_vibration_z_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_z_vars,filter_vibration_z_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_z_vars,filter_vibration_z_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,casing_pressure_vars,filter_casing_pressure_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,casing_pressure_vars,filter_casing_pressure_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,casing_pressure_vars,filter_casing_pressure_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,tubing_pressure_vars,filter_tubing_pressure_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,tubing_pressure_vars,filter_tubing_pressure_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,tubing_pressure_vars,filter_tubing_pressure_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,current_leakage_vars,filter_current_leakage_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,current_leakage_vars,filter_current_leakage_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,current_leakage_vars,filter_current_leakage_vars_sort_must_be_1
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,power_consumption_vars,filter_power_consumption_vars_must_be_visible
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,power_consumption_vars,filter_power_consumption_vars_multi_true
+Blackbeard,Real Time: Quick View,LiH8xqw4k,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,power_consumption_vars,filter_power_consumption_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,schema,first_var_must_be_schema
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,groupId,second_var_must_be_groupId
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,frequency_vars,filter_frequency_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,frequency_vars,filter_frequency_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_current_vars,filter_motor_current_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_current_vars,filter_motor_current_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_current_vars,filter_motor_current_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_load_vars,filter_motor_load_vars_current_must_be_All
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_voltage_vars,filter_motor_voltage_vars_current_must_be_All
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_current_vars,filter_drive_current_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_current_vars,filter_drive_current_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_current_vars,filter_drive_current_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vsd_load_vars,filter_vsd_load_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vsd_load_vars,filter_vsd_load_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vsd_load_vars,filter_vsd_load_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_voltage_vars,filter_drive_voltage_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_voltage_vars,filter_drive_voltage_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,drive_voltage_vars,filter_drive_voltage_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pip_vars,filter_pip_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pip_vars,filter_pip_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pip_vars,filter_pip_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pdp_vars,filter_pdp_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pdp_vars,filter_pdp_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,pdp_vars,filter_pdp_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,fluid_temperature_vars,filter_fluid_temperature_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,fluid_temperature_vars,filter_fluid_temperature_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,fluid_temperature_vars,filter_fluid_temperature_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_temperature_vars,filter_motor_temperature_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_temperature_vars,filter_motor_temperature_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,motor_temperature_vars,filter_motor_temperature_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_x_vars,filter_vibration_x_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_x_vars,filter_vibration_x_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_x_vars,filter_vibration_x_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_y_vars,filter_vibration_y_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_y_vars,filter_vibration_y_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_y_vars,filter_vibration_y_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_z_vars,filter_vibration_z_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_z_vars,filter_vibration_z_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,vibration_z_vars,filter_vibration_z_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,casing_pressure_vars,filter_casing_pressure_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,casing_pressure_vars,filter_casing_pressure_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,casing_pressure_vars,filter_casing_pressure_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,tubing_pressure_vars,filter_tubing_pressure_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,tubing_pressure_vars,filter_tubing_pressure_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,tubing_pressure_vars,filter_tubing_pressure_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,current_leakage_vars,filter_current_leakage_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,current_leakage_vars,filter_current_leakage_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,current_leakage_vars,filter_current_leakage_vars_sort_must_be_1
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,power_consumption_vars,filter_power_consumption_vars_must_be_visible
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,power_consumption_vars,filter_power_consumption_vars_multi_true
+Blackbeard,Real Time: Trends,QdGHPbl4z,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,power_consumption_vars,filter_power_consumption_vars_sort_must_be_1
+Blackbeard,Reports,jis1fNISz,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,schema,first_var_must_be_schema
+Blackbeard,Reports,jis1fNISz,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,groupId,second_var_must_be_groupId
+Blackbeard,Reports,jis1fNISz,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Setpoints,de_bMhiSk,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,schema,first_var_must_be_schema
+Blackbeard,Setpoints,de_bMhiSk,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,groupId,second_var_must_be_groupId
+Blackbeard,Setpoints,de_bMhiSk,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Shutdowns and Faults,aepz7t51csphca,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,schema,first_var_must_be_schema
+Blackbeard,Shutdowns and Faults,aepz7t51csphca,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,groupId,second_var_must_be_groupId
+Blackbeard,Shutdowns and Faults,aepz7t51csphca,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,Zone,filter_Zone_sort_must_be_1
+Blackbeard,Shutdowns and Faults,aepz7t51csphca,Blackbeard,869,/dashboards/f/ae34c3d2-74c4-4903-b119-1e21acea3063/blackbeard,nodeId,nodeId_includeAll_must_be_false
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,frequency_vars,filter_frequency_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,frequency_vars,filter_frequency_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_current_vars,filter_motor_current_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_current_vars,filter_motor_current_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_current_vars,filter_motor_current_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_load_vars,filter_motor_load_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_load_vars,filter_motor_load_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_load_vars,filter_motor_load_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_load_vars,filter_motor_load_vars_current_must_be_All
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_voltage_vars,filter_motor_voltage_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_voltage_vars,filter_motor_voltage_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_voltage_vars,filter_motor_voltage_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_voltage_vars,filter_motor_voltage_vars_current_must_be_All
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,drive_current_vars,filter_drive_current_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,drive_current_vars,filter_drive_current_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,drive_current_vars,filter_drive_current_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vsd_load_vars,filter_vsd_load_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vsd_load_vars,filter_vsd_load_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vsd_load_vars,filter_vsd_load_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,drive_voltage_vars,filter_drive_voltage_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,drive_voltage_vars,filter_drive_voltage_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,drive_voltage_vars,filter_drive_voltage_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,pip_vars,filter_pip_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,pip_vars,filter_pip_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,pip_vars,filter_pip_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,pdp_vars,filter_pdp_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,pdp_vars,filter_pdp_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,pdp_vars,filter_pdp_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,fluid_temperature_vars,filter_fluid_temperature_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,fluid_temperature_vars,filter_fluid_temperature_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,fluid_temperature_vars,filter_fluid_temperature_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_temperature_vars,filter_motor_temperature_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_temperature_vars,filter_motor_temperature_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,motor_temperature_vars,filter_motor_temperature_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_x_vars,filter_vibration_x_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_x_vars,filter_vibration_x_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_x_vars,filter_vibration_x_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_y_vars,filter_vibration_y_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_y_vars,filter_vibration_y_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_y_vars,filter_vibration_y_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_z_vars,filter_vibration_z_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_z_vars,filter_vibration_z_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,vibration_z_vars,filter_vibration_z_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,casing_pressure_vars,filter_casing_pressure_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,casing_pressure_vars,filter_casing_pressure_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,casing_pressure_vars,filter_casing_pressure_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,tubing_pressure_vars,filter_tubing_pressure_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,tubing_pressure_vars,filter_tubing_pressure_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,tubing_pressure_vars,filter_tubing_pressure_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,current_leakage_vars,filter_current_leakage_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,current_leakage_vars,filter_current_leakage_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,current_leakage_vars,filter_current_leakage_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,power_consumption_vars,filter_power_consumption_vars_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,power_consumption_vars,filter_power_consumption_vars_multi_true
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,power_consumption_vars,filter_power_consumption_vars_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,metric_group,filter_metric_group_must_be_visible
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,metric_group,filter_metric_group_sort_must_be_1
+Cholla,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,metric_group,filter_metric_group_current_must_be_All
+Cholla,Setpoints,fbdde6cd-1dca-4df8-a0ca-f737b904f527,Cholla,308,/dashboards/f/e560d392-4817-47bf-8bda-daa668a9ade2/cholla,schema,first_var_must_be_schema
+CPX,Field View,cb8bbfa2-9217-4115-94ba-4129c9dbb799,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Field View,cb8bbfa2-9217-4115-94ba-4129c9dbb799,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Field View,cb8bbfa2-9217-4115-94ba-4129c9dbb799,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Field View,cb8bbfa2-9217-4115-94ba-4129c9dbb799,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+CPX,Field View,cb8bbfa2-9217-4115-94ba-4129c9dbb799,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Compressor,nonfilter_Compressor_must_be_hidden
+CPX,Health Check,pStOWAcIk,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Health Check,pStOWAcIk,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Health Check,pStOWAcIk,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Health Check,pStOWAcIk,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+CPX,Health Check,pStOWAcIk,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Compressor,nonfilter_Compressor_must_be_hidden
+CPX,Production History,c56936bd-a555-4c7c-9eec-d7102e70d1c8,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Production History,c56936bd-a555-4c7c-9eec-d7102e70d1c8,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Production History,c56936bd-a555-4c7c-9eec-d7102e70d1c8,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Production History,c56936bd-a555-4c7c-9eec-d7102e70d1c8,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+CPX,Production History,c56936bd-a555-4c7c-9eec-d7102e70d1c8,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Compressor,nonfilter_Compressor_must_be_hidden
+CPX,Real Time: Multi-axis,fel31jxjm6u4gb,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Real Time: Multi-axis,fel31jxjm6u4gb,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Real Time: Multi-axis,fel31jxjm6u4gb,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Real Time: Multi-axis,fel31jxjm6u4gb,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+CPX,Real Time: Multi-axis,fel31jxjm6u4gb,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Compressor,nonfilter_Compressor_must_be_hidden
+CPX,Real Time: Single-axis,db171871-a649-4fa0-9a89-c3ba45652f12,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Real Time: Single-axis,db171871-a649-4fa0-9a89-c3ba45652f12,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Real Time: Single-axis,db171871-a649-4fa0-9a89-c3ba45652f12,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Real Time: Single-axis,db171871-a649-4fa0-9a89-c3ba45652f12,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+CPX,Real Time: Single-axis,db171871-a649-4fa0-9a89-c3ba45652f12,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Compressor,nonfilter_Compressor_must_be_hidden
+CPX,Reports,jis1fNISz,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Reports,jis1fNISz,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Reports,jis1fNISz,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Reports,jis1fNISz,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+CPX,Reports,jis1fNISz,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Compressor,nonfilter_Compressor_must_be_hidden
+CPX,Reports,jis1fNISz,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,scale,scale_must_be_visible
+CPX,Sensitivities,dewdi3tkhx9moc,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_must_be_visible
+CPX,Sensitivities,dewdi3tkhx9moc,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Engineer,filter_Engineer_multi_true
+CPX,Sensitivities,dewdi3tkhx9moc,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_must_be_visible
+CPX,Sensitivities,dewdi3tkhx9moc,CPX,403,/dashboards/f/c9f71443-dd31-4cb4-8613-1c12e5fc81ab/cpx,Foreman,filter_Foreman_multi_true
+TEMPLATES BOOMERANG,Benchmark,aa2c53e0-7e0b-427b-ae96-931bc87c0faa,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_must_be_visible
+TEMPLATES BOOMERANG,Benchmark,aa2c53e0-7e0b-427b-ae96-931bc87c0faa,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_sort_must_be_1
+TEMPLATES BOOMERANG,Executive,aepn8omwkvo5cc,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_must_be_visible
+TEMPLATES BOOMERANG,Executive,aepn8omwkvo5cc,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_sort_must_be_1
+TEMPLATES BOOMERANG,Health Check,b9eb2e07-d926-4ce6-9742-38e616d724fd,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,District,filter_District_sort_must_be_1
+TEMPLATES BOOMERANG,Health Check,b9eb2e07-d926-4ce6-9742-38e616d724fd,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Area,filter_Area_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,frequency_vars,filter_frequency_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,frequency_vars,filter_frequency_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_current_vars,filter_motor_current_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_current_vars,filter_motor_current_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_current_vars,filter_motor_current_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_load_vars,filter_motor_load_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_load_vars,filter_motor_load_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_load_vars,filter_motor_load_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_load_vars,filter_motor_load_vars_current_must_be_All
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_voltage_vars,filter_motor_voltage_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_voltage_vars,filter_motor_voltage_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_voltage_vars,filter_motor_voltage_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_voltage_vars,filter_motor_voltage_vars_current_must_be_All
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,drive_current_vars,filter_drive_current_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,drive_current_vars,filter_drive_current_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,drive_current_vars,filter_drive_current_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vsd_load_vars,filter_vsd_load_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vsd_load_vars,filter_vsd_load_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vsd_load_vars,filter_vsd_load_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,drive_voltage_vars,filter_drive_voltage_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,drive_voltage_vars,filter_drive_voltage_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,drive_voltage_vars,filter_drive_voltage_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,dc_bus_voltage_vars,filter_dc_bus_voltage_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,pip_vars,filter_pip_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,pip_vars,filter_pip_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,pip_vars,filter_pip_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,pdp_vars,filter_pdp_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,pdp_vars,filter_pdp_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,pdp_vars,filter_pdp_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,fluid_temperature_vars,filter_fluid_temperature_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,fluid_temperature_vars,filter_fluid_temperature_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,fluid_temperature_vars,filter_fluid_temperature_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_temperature_vars,filter_motor_temperature_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_temperature_vars,filter_motor_temperature_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,motor_temperature_vars,filter_motor_temperature_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_x_vars,filter_vibration_x_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_x_vars,filter_vibration_x_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_x_vars,filter_vibration_x_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_y_vars,filter_vibration_y_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_y_vars,filter_vibration_y_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_y_vars,filter_vibration_y_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_z_vars,filter_vibration_z_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_z_vars,filter_vibration_z_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,vibration_z_vars,filter_vibration_z_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,casing_pressure_vars,filter_casing_pressure_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,casing_pressure_vars,filter_casing_pressure_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,casing_pressure_vars,filter_casing_pressure_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,tubing_pressure_vars,filter_tubing_pressure_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,tubing_pressure_vars,filter_tubing_pressure_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,tubing_pressure_vars,filter_tubing_pressure_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,current_leakage_vars,filter_current_leakage_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,current_leakage_vars,filter_current_leakage_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,current_leakage_vars,filter_current_leakage_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,power_consumption_vars,filter_power_consumption_vars_must_be_visible
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,power_consumption_vars,filter_power_consumption_vars_multi_true
+TEMPLATES BOOMERANG,Real Time: Quick View,LiH8xqw4k,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,power_consumption_vars,filter_power_consumption_vars_sort_must_be_1
+TEMPLATES BOOMERANG,Shutdowns and Faults,eeq1q5c0le0owa,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_must_be_visible
+TEMPLATES BOOMERANG,Shutdowns and Faults,eeq1q5c0le0owa,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_multi_true
+TEMPLATES BOOMERANG,Shutdowns and Faults,eeq1q5c0le0owa,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,Zone,filter_Zone_sort_must_be_1
+TEMPLATES BOOMERANG,Shutdowns and Faults,eeq1q5c0le0owa,TEMPLATES BOOMERANG,2917,/dashboards/f/beq5mnpbav7y8d/templates-boomerang,nodeId,nodeId_includeAll_must_be_false
+TEMPLATES EM,Benchmark,ceoo84cmemm80d,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Benchmark,ceoo84cmemm80d,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Benchmark,ceoo84cmemm80d,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Benchmark,ceoo84cmemm80d,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Daily ESP Status,s6-EeN-Vz,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Daily ESP Status,s6-EeN-Vz,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Daily ESP Status,s6-EeN-Vz,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Daily ESP Status,s6-EeN-Vz,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Executive,ceoo8jfyjiq68c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Executive,ceoo8jfyjiq68c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Executive,ceoo8jfyjiq68c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Executive,ceoo8jfyjiq68c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Health Check,DwPYb484z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Health Check,DwPYb484z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Health Check,DwPYb484z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Health Check,DwPYb484z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Production Optimization,eeoo9e4vx3cowc,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Production Optimization,eeoo9e4vx3cowc,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Production Optimization,eeoo9e4vx3cowc,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Production Optimization,eeoo9e4vx3cowc,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Real Time: Multi-axis,4YkKH3w4z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,schema,first_var_must_be_schema
+TEMPLATES EM,Real Time: Multi-axis,4YkKH3w4z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,groupId,second_var_must_be_groupId
+TEMPLATES EM,Real Time: Multi-axis,4YkKH3w4z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Real Time: Multi-axis,4YkKH3w4z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Real Time: Multi-axis,4YkKH3w4z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Real Time: Multi-axis,4YkKH3w4z,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Real Time: Trends,ldr9mfv4kn,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Real Time: Trends,ldr9mfv4kn,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Real Time: Trends,ldr9mfv4kn,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Real Time: Trends,ldr9mfv4kn,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Shutdowns and Faults,deooaj4y1k54wb,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,Shutdowns and Faults,deooaj4y1k54wb,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,Shutdowns and Faults,deooaj4y1k54wb,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,Shutdowns and Faults,deooaj4y1k54wb,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+TEMPLATES EM,Shutdowns and Faults,deooaj4y1k54wb,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,nodeId,nodeId_includeAll_must_be_false
+TEMPLATES EM,TEST REPLICATION,bf2bkv6j7fchsa,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Area,filter_Area_sort_must_be_1
+TEMPLATES EM,TEST REPLICATION,bf2bkv6j7fchsa,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,County,filter_County_sort_must_be_1
+TEMPLATES EM,TEST REPLICATION,bf2bkv6j7fchsa,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Battery,filter_Battery_sort_must_be_1
+TEMPLATES EM,TEST REPLICATION,bf2bkv6j7fchsa,TEMPLATES EM,2928,/dashboards/f/aeq6o9eni0z5sa/templates-em,Formation,filter_Formation_sort_must_be_1
+Firebird,Benchmark,aa2c53e0-7e0b-427b-ae96-931bc87c0faa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Benchmark,aa2c53e0-7e0b-427b-ae96-931bc87c0faa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Benchmark,aa2c53e0-7e0b-427b-ae96-931bc87c0faa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Daily ESP Status,avobtrQ4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Daily ESP Status,avobtrQ4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Daily ESP Status,avobtrQ4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Daily ESP Status,avobtrQ4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Daily ESP Status,avobtrQ4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Executive,aepn8omwkvo5cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Executive,aepn8omwkvo5cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Executive,aepn8omwkvo5cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Executive,aepn8omwkvo5cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Executive,aepn8omwkvo5cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Health Check,de1kw7we8rx1cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Health Check,de1kw7we8rx1cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Health Check,de1kw7we8rx1cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Health Check,de1kw7we8rx1cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Health Check,de1kw7we8rx1cc,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Production History,W9lC_Bs4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Production History,W9lC_Bs4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Production History,W9lC_Bs4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Production History,W9lC_Bs4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Production History,W9lC_Bs4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Production Optimization,aepn9xzag2xvkf,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Production Optimization,aepn9xzag2xvkf,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Production Optimization,aepn9xzag2xvkf,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Production Optimization,aepn9xzag2xvkf,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Production Optimization,aepn9xzag2xvkf,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Real Time: Multi-axis,4YkKH3w4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Real Time: Multi-axis,4YkKH3w4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Real Time: Multi-axis,4YkKH3w4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Real Time: Quick View,LiH8xqw4k,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Real Time: Quick View,LiH8xqw4k,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Real Time: Quick View,LiH8xqw4k,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Real Time: Quick View,LiH8xqw4k,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Real Time: Quick View,LiH8xqw4k,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Real Time: Trends,QdGHPbl4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Real Time: Trends,QdGHPbl4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Real Time: Trends,QdGHPbl4z,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Reports,jis1fNISz,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Reports,jis1fNISz,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Reports,jis1fNISz,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Reports,jis1fNISz,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Reports,jis1fNISz,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Setpoints,de_bMhiSk,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Setpoints,de_bMhiSk,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Setpoints,de_bMhiSk,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Setpoints,de_bMhiSk,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Setpoints,de_bMhiSk,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_multi_true
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Engineer,filter_Engineer_sort_must_be_1
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Foreman,filter_Foreman_multi_true
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Area,filter_Area_sort_must_be_1
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,Zone,filter_Zone_sort_must_be_1
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,last_production_date,filter_last_production_date_must_be_visible
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,last_production_date,filter_last_production_date_multi_true
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,last_production_date,filter_last_production_date_includeAll_true
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,last_production_date,filter_last_production_date_sort_must_be_1
+Firebird,Shutdowns and Faults,eeq1q5c0le0owa,Firebird,658,/dashboards/f/b068186f-3291-4309-bd06-acb83844228e/firebird,last_production_date,filter_last_production_date_current_must_be_All
+Four Point Energy,Benchmark,ceoo84cmemm80d,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Benchmark,ceoo84cmemm80d,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Benchmark,ceoo84cmemm80d,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Benchmark,ceoo84cmemm80d,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Daily ESP Status,s6-EeN-Vz,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Daily ESP Status,s6-EeN-Vz,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Daily ESP Status,s6-EeN-Vz,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Daily ESP Status,s6-EeN-Vz,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Executive,ceoo8jfyjiq68c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Executive,ceoo8jfyjiq68c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Executive,ceoo8jfyjiq68c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Executive,ceoo8jfyjiq68c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Health Check,DwPYb484z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Health Check,DwPYb484z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Health Check,DwPYb484z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Health Check,DwPYb484z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Production Optimization,eeoo9e4vx3cowc,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Production Optimization,eeoo9e4vx3cowc,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Production Optimization,eeoo9e4vx3cowc,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Production Optimization,eeoo9e4vx3cowc,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Real Time: Multi-axis,4YkKH3w4z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,schema,first_var_must_be_schema
+Four Point Energy,Real Time: Multi-axis,4YkKH3w4z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,groupId,second_var_must_be_groupId
+Four Point Energy,Real Time: Multi-axis,4YkKH3w4z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Real Time: Multi-axis,4YkKH3w4z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Real Time: Multi-axis,4YkKH3w4z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Real Time: Multi-axis,4YkKH3w4z,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Real Time: Trends,ldr9mfv4kn,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Real Time: Trends,ldr9mfv4kn,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Real Time: Trends,ldr9mfv4kn,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Real Time: Trends,ldr9mfv4kn,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Four Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Area,filter_Area_sort_must_be_1
+Four Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,County,filter_County_sort_must_be_1
+Four Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Battery,filter_Battery_sort_must_be_1
+Four Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Four Point Energy,3212,/dashboards/f/fev18et6u0r9ce/four-point-energy,Formation,filter_Formation_sort_must_be_1
+Moriah,Benchmark,fepz8lwvbzcaoa,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Benchmark,fepz8lwvbzcaoa,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Benchmark,fepz8lwvbzcaoa,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Benchmark,fepz8lwvbzcaoa,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Daily ESP Status,s6-EeN-Vz,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Daily ESP Status,s6-EeN-Vz,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Daily ESP Status,s6-EeN-Vz,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Daily ESP Status,s6-EeN-Vz,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Executive,ceoo8jfyjiq68c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Executive,ceoo8jfyjiq68c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Executive,ceoo8jfyjiq68c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Executive,ceoo8jfyjiq68c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Health Check,DwPYb484z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Health Check,DwPYb484z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Health Check,DwPYb484z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Health Check,DwPYb484z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Production Optimization,eeoo9e4vx3cowc,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Production Optimization,eeoo9e4vx3cowc,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Production Optimization,eeoo9e4vx3cowc,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Production Optimization,eeoo9e4vx3cowc,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Production Optimization,eeoo9e4vx3cowc,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,nodeId,nodeId_includeAll_must_be_false
+Moriah,Real Time: Multi-axis,4YkKH3w4z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,schema,first_var_must_be_schema
+Moriah,Real Time: Multi-axis,4YkKH3w4z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,groupId,second_var_must_be_groupId
+Moriah,Real Time: Multi-axis,4YkKH3w4z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Real Time: Multi-axis,4YkKH3w4z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Real Time: Multi-axis,4YkKH3w4z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Real Time: Multi-axis,4YkKH3w4z,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Real Time: Trends,ldr9mfv4kn,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,schema,first_var_must_be_schema
+Moriah,Real Time: Trends,ldr9mfv4kn,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,groupId,second_var_must_be_groupId
+Moriah,Real Time: Trends,ldr9mfv4kn,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Real Time: Trends,ldr9mfv4kn,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Real Time: Trends,ldr9mfv4kn,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Real Time: Trends,ldr9mfv4kn,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Shutdowns and Faults,deooaj4y1k54wb,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Area,filter_Area_sort_must_be_1
+Moriah,Shutdowns and Faults,deooaj4y1k54wb,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,County,filter_County_sort_must_be_1
+Moriah,Shutdowns and Faults,deooaj4y1k54wb,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Battery,filter_Battery_sort_must_be_1
+Moriah,Shutdowns and Faults,deooaj4y1k54wb,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,Formation,filter_Formation_sort_must_be_1
+Moriah,Shutdowns and Faults,deooaj4y1k54wb,Moriah,412,/dashboards/f/b595cf70-7b6b-4182-89de-8c5232aab886/moriah,nodeId,nodeId_includeAll_must_be_false
+Point Energy,Benchmark,ceoo84cmemm80d,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Benchmark,ceoo84cmemm80d,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Benchmark,ceoo84cmemm80d,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Daily ESP Status,s6-EeN-Vz,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Daily ESP Status,s6-EeN-Vz,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Daily ESP Status,s6-EeN-Vz,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Executive,ceoo8jfyjiq68c,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Executive,ceoo8jfyjiq68c,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Executive,ceoo8jfyjiq68c,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Health Check,DwPYb484z,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Health Check,DwPYb484z,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Health Check,DwPYb484z,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,PIP History,eac34201-46e7-41c4-9b6f-f15d77c611ad,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,schema,first_var_must_be_schema
+Point Energy,PIP History,eac34201-46e7-41c4-9b6f-f15d77c611ad,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,groupId,second_var_must_be_groupId
+Point Energy,PIP History,eac34201-46e7-41c4-9b6f-f15d77c611ad,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,nodeId,nonfilter_nodeId_must_be_hidden
+Point Energy,PIP History,eac34201-46e7-41c4-9b6f-f15d77c611ad,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,nodeId,nodeId_includeAll_must_be_false
+Point Energy,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,schema,first_var_must_be_schema
+Point Energy,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,groupId,second_var_must_be_groupId
+Point Energy,Production Optimization,eeoo9e4vx3cowc,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,schema,first_var_must_be_schema
+Point Energy,Production Optimization,eeoo9e4vx3cowc,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,groupId,second_var_must_be_groupId
+Point Energy,Real Time: Multi-axis,c2cd300a-6ac8-4718-b999-54ddfe66377d,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Real Time: Multi-axis,c2cd300a-6ac8-4718-b999-54ddfe66377d,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Real Time: Multi-axis,c2cd300a-6ac8-4718-b999-54ddfe66377d,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Real Time: Trends,ldr9mfv4kn,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Real Time: Trends,ldr9mfv4kn,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Real Time: Trends,ldr9mfv4kn,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Reports,ac8882f5-a3bd-4897-bf6a-93e4174c29fc,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Reports,ac8882f5-a3bd-4897-bf6a-93e4174c29fc,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Reports,ac8882f5-a3bd-4897-bf6a-93e4174c29fc,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Setpoints,eb603069-b354-4564-9a73-b452d749adb8,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Setpoints,eb603069-b354-4564-9a73-b452d749adb8,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Setpoints,eb603069-b354-4564-9a73-b452d749adb8,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Route,filter_Route_sort_must_be_1
+Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Battery,filter_Battery_sort_must_be_1
+Point Energy,Shutdowns and Faults,deooaj4y1k54wb,Point Energy,320,/dashboards/f/a3347713-0c9f-4c26-b643-f000132be1dc/point-energy,Zone,filter_Zone_sort_must_be_1
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,groupId_missing
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,nonfilter_Area_must_be_hidden
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,nonfilter_County_must_be_hidden
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Battery,nonfilter_Battery_must_be_hidden
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Formation,nonfilter_Formation_must_be_hidden
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,nonfilter_Entity_must_be_hidden
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,nonfilter_State_must_be_hidden
+Rockport,Benchmark,ceoo84cmemm80d,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,nonfilter_Basin_must_be_hidden
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,filter_Area_sort_must_be_1
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,filter_County_sort_must_be_1
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Battery,filter_Battery_sort_must_be_1
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Formation,filter_Formation_sort_must_be_1
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Daily ESP Status,s6-EeN-Vz,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,groupId_missing
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,nonfilter_Area_must_be_hidden
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,nonfilter_County_must_be_hidden
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Battery,nonfilter_Battery_must_be_hidden
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Formation,nonfilter_Formation_must_be_hidden
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,nonfilter_Entity_must_be_hidden
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,nonfilter_State_must_be_hidden
+Rockport,Executive,ceoo8jfyjiq68c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,nonfilter_Basin_must_be_hidden
+Rockport,Health Check,DwPYb484z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,filter_County_sort_must_be_1
+Rockport,Health Check,DwPYb484z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Battery,filter_Battery_sort_must_be_1
+Rockport,Health Check,DwPYb484z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Health Check,DwPYb484z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Health Check,DwPYb484z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,schema,first_var_must_be_schema
+Rockport,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,filter_Area_sort_must_be_1
+Rockport,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,groupId_missing
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,nonfilter_Area_must_be_hidden
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,nonfilter_County_must_be_hidden
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Battery,nonfilter_Battery_must_be_hidden
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Formation,nonfilter_Formation_must_be_hidden
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,nonfilter_Entity_must_be_hidden
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,nonfilter_State_must_be_hidden
+Rockport,Production Optimization,eeoo9e4vx3cowc,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,nonfilter_Basin_must_be_hidden
+Rockport,Real Time: Multi-axis,4YkKH3w4z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,schema,first_var_must_be_schema
+Rockport,Real Time: Multi-axis,4YkKH3w4z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Real Time: Multi-axis,4YkKH3w4z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,filter_County_sort_must_be_1
+Rockport,Real Time: Multi-axis,4YkKH3w4z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Real Time: Multi-axis,4YkKH3w4z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Real Time: Multi-axis,4YkKH3w4z,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,filter_County_sort_must_be_1
+Rockport,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,some_nodeId,some_nodeId_multi_true
+Rockport,Real Time: Trends,ldr9mfv4kn,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,schema,first_var_must_be_schema
+Rockport,Real Time: Trends,ldr9mfv4kn,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Real Time: Trends,ldr9mfv4kn,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,filter_County_sort_must_be_1
+Rockport,Real Time: Trends,ldr9mfv4kn,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Real Time: Trends,ldr9mfv4kn,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Real Time: Trends,ldr9mfv4kn,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,filter_Area_sort_must_be_1
+Rockport,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,filter_Area_sort_must_be_1
+Rockport,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,filter_Entity_sort_must_be_1
+Rockport,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,filter_State_sort_must_be_1
+Rockport,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,filter_Basin_sort_must_be_1
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,second_var_must_be_groupId
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,groupId,groupId_missing
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Area,nonfilter_Area_must_be_hidden
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,County,nonfilter_County_must_be_hidden
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Battery,nonfilter_Battery_must_be_hidden
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Formation,nonfilter_Formation_must_be_hidden
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Entity,nonfilter_Entity_must_be_hidden
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,State,nonfilter_State_must_be_hidden
+Rockport,Shutdowns and Faults,deooaj4y1k54wb,Rockport,2843,/dashboards/f/eepvf7ml8elfkf/rockport,Basin,nonfilter_Basin_must_be_hidden
+Sixess,Benchmark,ceoo84cmemm80d,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Benchmark,ceoo84cmemm80d,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Daily ESP Status,s6-EeN-Vz,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Daily ESP Status,s6-EeN-Vz,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Executive,ceoo8jfyjiq68c,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Executive,ceoo8jfyjiq68c,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Health Check,fe60wxp5bfa4gc,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Health Check,fe60wxp5bfa4gc,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Production Optimization,eeoo9e4vx3cowc,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Production Optimization,eeoo9e4vx3cowc,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Real Time: Multi-axis,de1ea9e0-9801-4c50-8c96-6271e61f935c,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Real Time: Multi-axis,de1ea9e0-9801-4c50-8c96-6271e61f935c,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,nodeId,nonfilter_nodeId_must_be_hidden
+Sixess,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,nodeId,nodeId_includeAll_must_be_false
+Sixess,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,some_nodeId,some_nodeId_must_be_visible
+Sixess,Real Time: Trends,ldr9mfv4kn,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Real Time: Trends,ldr9mfv4kn,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+Sixess,Setpoints New EM,fep9ntzn18phcdj,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Database,nonfilter_Database_must_be_hidden
+Sixess,Shutdowns and Faults,deooaj4y1k54wb,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Area,filter_Area_sort_must_be_1
+Sixess,Shutdowns and Faults,deooaj4y1k54wb,Sixess,2450,/dashboards/f/een60htroafb4e/sixess,Formation,filter_Formation_sort_must_be_1
+SOGC,Benchmark,ceoo84cmemm80d,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Benchmark,ceoo84cmemm80d,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Benchmark,ceoo84cmemm80d,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Daily ESP Status,s6-EeN-Vz,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Daily ESP Status,s6-EeN-Vz,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Daily ESP Status,s6-EeN-Vz,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Executive,ceoo8jfyjiq68c,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Executive,ceoo8jfyjiq68c,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Executive,ceoo8jfyjiq68c,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Health Check,DwPYb484z,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Health Check,DwPYb484z,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Health Check,DwPYb484z,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Production Optimization,eeoo9e4vx3cowc,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Production Optimization,eeoo9e4vx3cowc,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Production Optimization,eeoo9e4vx3cowc,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Real Time: Multi-axis,IToQyrp4k,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Real Time: Multi-axis,IToQyrp4k,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Real Time: Multi-axis,IToQyrp4k,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Real Time: Trends,ldr9mfv4kn,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Real Time: Trends,ldr9mfv4kn,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Real Time: Trends,ldr9mfv4kn,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Setpoints,ebcaf56f-e2f9-421d-9a19-9561e6238eb9,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Setpoints,ebcaf56f-e2f9-421d-9a19-9561e6238eb9,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Setpoints,ebcaf56f-e2f9-421d-9a19-9561e6238eb9,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+SOGC,Shutdowns and Faults,deooaj4y1k54wb,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Route,filter_Route_sort_must_be_1
+SOGC,Shutdowns and Faults,deooaj4y1k54wb,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Battery,filter_Battery_sort_must_be_1
+SOGC,Shutdowns and Faults,deooaj4y1k54wb,SOGC,461,/dashboards/f/ce217dd7-f01f-4902-9960-9361c2640307/sogc,Zone,filter_Zone_sort_must_be_1
+Stephens,Benchmark,ceoo84cmemm80d,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Benchmark,ceoo84cmemm80d,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Benchmark,ceoo84cmemm80d,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Benchmark,ceoo84cmemm80d,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Daily ESP Status,s6-EeN-Vz,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Daily ESP Status,s6-EeN-Vz,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Daily ESP Status,s6-EeN-Vz,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Daily ESP Status,s6-EeN-Vz,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Executive,ceoo8jfyjiq68c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Executive,ceoo8jfyjiq68c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Executive,ceoo8jfyjiq68c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Executive,ceoo8jfyjiq68c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Health Check,fe60wxp5bfa4gc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Health Check,fe60wxp5bfa4gc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Health Check,fe60wxp5bfa4gc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Health Check,fe60wxp5bfa4gc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Production History,dcbcad05-4015-48e2-a2b9-fee6dce8426f,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Production Optimization,eeoo9e4vx3cowc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Production Optimization,eeoo9e4vx3cowc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Production Optimization,eeoo9e4vx3cowc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Production Optimization,eeoo9e4vx3cowc,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Real Time: Multi-axis,de1ea9e0-9801-4c50-8c96-6271e61f935c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Real Time: Multi-axis,de1ea9e0-9801-4c50-8c96-6271e61f935c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Real Time: Multi-axis,de1ea9e0-9801-4c50-8c96-6271e61f935c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Real Time: Multi-axis,de1ea9e0-9801-4c50-8c96-6271e61f935c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Real Time: Quick View,de11e17c-6fdd-40c7-a942-5712472b8a46,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Real Time: Trends,ldr9mfv4kn,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Real Time: Trends,ldr9mfv4kn,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Real Time: Trends,ldr9mfv4kn,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Real Time: Trends,ldr9mfv4kn,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Reports,ca401882-9c38-49ad-8f0c-f4e8fcf05451,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Setpoints,f11e0c99-1940-4df7-8e40-7377f0ed262c,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
+Stephens,Shutdowns and Faults,deooaj4y1k54wb,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Area,filter_Area_sort_must_be_1
+Stephens,Shutdowns and Faults,deooaj4y1k54wb,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,County,filter_County_sort_must_be_1
+Stephens,Shutdowns and Faults,deooaj4y1k54wb,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Battery,filter_Battery_sort_must_be_1
+Stephens,Shutdowns and Faults,deooaj4y1k54wb,Stephens,1057,/dashboards/f/ee32c2d31454wd/stephens,Formation,filter_Formation_sort_must_be_1
