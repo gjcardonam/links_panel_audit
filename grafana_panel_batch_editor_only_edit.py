@@ -7,8 +7,7 @@ grafana_panel_batch_editor.py
 Edits ONE panel across companies:
 - Dashboard title is read from config per environment: grafana.dashboard_to_edit
 - Panel to update is matched by `type` and `title` extracted from the provided panel template JSON
-- Merges template onto the existing panel, only changing the fields present in the both template and existing panel
-- Preserves specified keys from the existing panel (by default: gridPos and id)
+- Merges template onto the existing panel, preserving gridPos (and id by default)
 - Only edits the dashboard whose title matches config AND that sits in the folder titled exactly as the company name
 
 Usage:
@@ -161,25 +160,86 @@ def find_panel_by_type_and_title(dashboard: Dict[str, Any], panel_type: str, pan
             return p
     return None
 
-def deep_merge_panel(existing: Dict[str, Any], template: Dict[str, Any], preserve_keys: Set[str]) -> Dict[str, Any]:
-    """Dict-vs-dict: recursive, template overrides. Lists/scalars: replaced by template.
-       Preserve keys (e.g., gridPos, id) from existing."""
-    def _merge(a: Any, b: Any) -> Any:
-        if isinstance(a, dict) and isinstance(b, dict):
-            out = dict(a)
-            for k, v in b.items():
-                if k in preserve_keys:
+def diff_only_merge(existing: Any, template: Any, preserve_keys: Set[str]) -> Tuple[Any, int]:
+    """
+    Return (merged_obj, changes_count).
+
+    Rules:
+    - Dicts: update only keys present in BOTH; recurse; never add or delete keys.
+    - Lists: do NOT change length. Update indices [0..min(len(existing), len(template))-1].
+             Recurse on dict elements; for scalars, replace only if different.
+    - Scalars: replace only if different.
+    - Always preserve keys listed in `preserve_keys` from `existing` (for dict level).
+
+    Notes:
+    - We copy 'existing' first so original reference is not mutated during diffing.
+    - 'changes_count' accumulates every scalar replacement and any nested changes.
+    """
+    from copy import deepcopy
+
+    def _merge(a: Any, b: Any, at_dict_level_preserve: Optional[Set[str]]) -> Tuple[Any, int]:
+        # Scalars or mismatched types → replace if different (but caller controls dict-level preserves)
+        if not isinstance(a, (dict, list)) or type(a) is not type(b):
+            if a != b:
+                return (deepcopy(b), 1)
+            return (a, 0)
+
+        # Dict case
+        if isinstance(a, dict):
+            result = deepcopy(a)
+            changes = 0
+            # Apply only intersecting keys
+            common_keys = set(a.keys()) & set(b.keys())
+            for k in common_keys:
+                if at_dict_level_preserve and k in at_dict_level_preserve:
+                    # strictly preserve
                     continue
-                out[k] = _merge(a.get(k), v)
-            return out
-        return b
-    res = _merge(existing, template)
-    for k in preserve_keys:
-        if k in existing:
-            res[k] = existing[k]
-        else:
-            res.pop(k, None)
-    return res
+                merged_val, ch = _merge(a.get(k), b.get(k), None)
+                if ch > 0:
+                    result[k] = merged_val
+                    changes += ch
+            # do NOT add keys only in template; do NOT remove keys only in existing
+            # Re-apply preservation explicitly (in case a == dict and template tried to alter)
+            if at_dict_level_preserve:
+                for k in at_dict_level_preserve:
+                    if k in a:
+                        result[k] = a[k]
+                    else:
+                        result.pop(k, None)
+            return (result, changes)
+
+        # List case (same type ensured)
+        if isinstance(a, list):
+            result = deepcopy(a)
+            changes = 0
+            limit = min(len(a), len(b))
+            for i in range(limit):
+                av, bv = a[i], b[i]
+                # recurse for dicts/lists; replace scalar if different
+                if isinstance(av, dict) and isinstance(bv, dict):
+                    merged_val, ch = _merge(av, bv, None)
+                    if ch > 0:
+                        result[i] = merged_val
+                        changes += ch
+                elif isinstance(av, list) and isinstance(bv, list):
+                    merged_val, ch = _merge(av, bv, None)
+                    if ch > 0:
+                        result[i] = merged_val
+                        changes += ch
+                else:
+                    if av != bv:
+                        result[i] = deepcopy(bv)
+                        changes += 1
+            # do NOT change length (no append/pop)
+            return (result, changes)
+
+        # Fallback (shouldn't reach)
+        return (deepcopy(b), 0)
+
+    # Kick off; if both are dicts, enforce dict-level preserves
+    preserve_here = preserve_keys if isinstance(existing, dict) else None
+    merged, changes = _merge(existing, template, preserve_here)
+    return merged, changes
 
 def backup_dashboard(env_name: str, org_name: str, uid: str, full_payload: Dict[str, Any]):
     dash = full_payload.get("dashboard") or {}
@@ -252,16 +312,24 @@ def run_for_environment(
 
             stats["found"] += 1
 
-            # merge while preserving keys (gridPos always preserved by default CLI)
-            new_panel = deep_merge_panel(panel, template_panel, preserve_keys)
+            # diff-only merge (no add/remove, only update intersecting diffs)
+            new_panel, change_count = diff_only_merge(panel, template_panel, preserve_keys)
 
-            panel.clear()
-            panel.update(new_panel)
+            if change_count == 0:
+                results.append({"org": org_name, "dashboard_uid": uid, "status": "no_change"})
+                stats["skipped"] += 1
+            else:
+                panel.clear()
+                panel.update(new_panel)
 
             backup_dashboard(env_name, org_name, uid, dash_payload)
 
             if dry_run:
-                results.append({"org": org_name, "dashboard_uid": uid, "status": "dry_run_success"})
+                results.append({"org": org_name, "dashboard_uid": uid, "status": "dry_run_success", "changes": change_count})
+                continue
+
+            if change_count == 0:
+                # Nothing to write
                 continue
 
             write_dashboard(
@@ -272,7 +340,7 @@ def run_for_environment(
                 folder_id=meta.get("folderId"),
                 overwrite=True,
             )
-            results.append({"org": org_name, "dashboard_uid": uid, "status": "edited"})
+            results.append({"org": org_name, "dashboard_uid": uid, "status": "edited", "changes": change_count})
             stats["edited"] += 1
 
         except Exception as e:

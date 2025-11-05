@@ -1,0 +1,85 @@
+{
+  "datasource": {
+    "default": false,
+    "type": "grafana-postgresql-datasource",
+    "uid": "a7249737-16c4-4b26-ac9d-5cb9630951cb"
+  },
+  "fieldConfig": {
+    "defaults": {
+      "mappings": [],
+      "thresholds": {
+        "mode": "absolute",
+        "steps": [
+          {
+            "color": "green",
+            "value": null
+          },
+          {
+            "color": "green",
+            "value": 80
+          }
+        ]
+      },
+      "color": {
+        "mode": "thresholds"
+      },
+      "noValue": "0"
+    },
+    "overrides": []
+  },
+  "gridPos": {
+    "h": 3,
+    "w": 3,
+    "x": 7,
+    "y": 0
+  },
+  "id": 24,
+  "options": {
+    "reduceOptions": {
+      "values": false,
+      "calcs": ["count"],
+      "fields": "/^Well$/"
+    },
+    "orientation": "auto",
+    "textMode": "auto",
+    "wideLayout": true,
+    "colorMode": "background",
+    "graphMode": "none",
+    "justifyMode": "center",
+    "showPercentChange": false,
+    "percentChangeColorMode": "standard"
+  },
+  "pluginVersion": "11.2.3",
+  "targets": [
+    {
+      "datasource": {
+        "type": "postgres",
+        "uid": "a7249737-16c4-4b26-ac9d-5cb9630951cb"
+      },
+      "editorMode": "code",
+      "format": "table",
+      "rawQuery": true,
+      "rawSql": "SELECT \r\n    wellname AS \"Well\",\r\n    status AS \"Status\"\r\nFROM $schema.vw_esp_summary\r\nWHERE status = 'DOWN'\r\n  and wellname IN ($all_nodeId)\r\n",
+      "refId": "A",
+      "sql": {
+        "columns": [
+          {
+            "parameters": [],
+            "type": "function"
+          }
+        ],
+        "groupBy": [
+          {
+            "property": {
+              "type": "string"
+            },
+            "type": "groupBy"
+          }
+        ],
+        "limit": 50
+      }
+    }
+  ],
+  "title": "Wells Down",
+  "type": "stat"
+}

@@ -1,0 +1,50 @@
+{
+  "summaries": [
+    {
+      "environment": "qa",
+      "orgs": 1,
+      "found": 1,
+      "edited": 1,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "environment": "dev",
+      "orgs": 0,
+      "found": 0,
+      "edited": 0,
+      "skipped": 0,
+      "errors": 0
+    }
+  ],
+  "environments": {
+    "qa": {
+      "summary": {
+        "environment": "qa",
+        "orgs": 1,
+        "found": 1,
+        "edited": 1,
+        "skipped": 0,
+        "errors": 0
+      },
+      "results": [
+        {
+          "org": "TEMPLATES EM",
+          "dashboard_uid": "bf2bkv6j7fchsa",
+          "status": "edited"
+        }
+      ]
+    },
+    "dev": {
+      "summary": {
+        "environment": "dev",
+        "orgs": 0,
+        "found": 0,
+        "edited": 0,
+        "skipped": 0,
+        "errors": 0
+      },
+      "results": []
+    }
+  }
+}

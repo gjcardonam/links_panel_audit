@@ -2,11 +2,11 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Python Debugger: audit_nav_links",
+      "name": "Python Debugger: audit_tables_links",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}/audit_nav_links.py",
-      "args": ["-c", "configs/multi.json"],
+      "program": "${workspaceFolder}/audit_tables_links.py",
+      "args": ["-c", "configs/audit_tables_links-config.json"],
       "console": "integratedTerminal"
     }
   ]
